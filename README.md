@@ -3,7 +3,7 @@ install requirements.txt
 Download and just run Texture_classification.py
 
 
-CONCLUSION
+
 The texture-based recognition procedures can be connected just when a picture
 has textural properties. The outcomes rely on a considerable measure of
 components like layout estimate, pixel moves, framework setup, spatial
